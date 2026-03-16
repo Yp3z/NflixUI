@@ -2,11 +2,11 @@ import React from 'react'
 
 export const BannerInicio = ({
   badge = "SLOTHUI ORIGINAL",
-  title = "Final Fantasy VII",
-  year = "2020",
-  top = "1# in PC Games Today",
+  title = "Rise of X",
+  year = "2028",
+  top = "1# in Movies Today",
   rating = "TV-MA",
-  description = "Final Fantasy VII Remake is a 2020 action role-playing game developed and published by Square Enix for the PlayStation 4. It is the first in a trilogy of games remaking Square's Final Fantasy VII -1997-, originally released for the PlayStation.",
+  description = "It was the 33rd century. Civil war had struck the galaxy, which an Empire ruled. A princess, fleeing the Empire, was traveling with her protector, General Luke Skywalker. Two bureaucrats posted to the space fortress prematurely evacuated to the surface of Aquilae and discovered a store of aura spice, a precious substance. ",
 }) => {
   return (
         <>
