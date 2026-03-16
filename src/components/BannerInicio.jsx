@@ -17,7 +17,7 @@ export const BannerInicio = ({
     >
 <div className="p-4 me-5 ms-6" style={{ width: "500px", background: "transparent" }}>
   <h1 className="text-white" style={{ fontSize: "60px"}}>{title}</h1>
-  <p className="text-white">{year}<img className="ms-2" src="./public/TVMA.png" alt="" width="60px"/></p> 
+  <p className="text-white">{year}<img className="ms-2" src="./TVMA.png" alt="" width="60px"/></p> 
   <h2 className="text-white">{top}</h2>  
   <p className="text-white">{description}</p>
   <img src="./public/Play.png" alt="" width="100px" />
