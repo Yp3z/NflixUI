@@ -9,7 +9,7 @@ export const Anime = () => {
         <div
             className=""
             style={{
-            backgroundImage: "url('/public/Fondo3.png')",
+            backgroundImage: "url('./Fondo3.png')",
             backgroundSize: "cover",
             backgroundPosition: "center"
             }}>
@@ -30,27 +30,27 @@ export const Anime = () => {
                         {
                           id: 1,
                           titulo: "Words Bubble Up Like Soda Pop",
-                          imagen: "./public/Anime 1.jpg"
+                          imagen: "./Anime 1.jpg"
                         },
                         {
                           id: 2,
                           titulo: "Suzume",
-                          imagen: "./public/Anime 2.jpg"
+                          imagen: "./Anime 2.jpg"
                         },
                         {
                           id: 3,
                           titulo: "Look Back",
-                          imagen: "./public/Anime 3.jpg"
+                          imagen: "./Anime 3.jpg"
                         },
                         {
                           id: 4,
                           titulo: "Madoka Magica Rising",
-                          imagen: "./public/Anime 4.png"
+                          imagen: "./Anime 4.png"
                         },
                         {
                           id: 5,
                           titulo: "Perfect Blue",
-                          imagen: "./public/Anime 5.jpg"
+                          imagen: "./Anime 5.jpg"
                         },
                         
                       ]}

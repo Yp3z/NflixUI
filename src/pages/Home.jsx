@@ -9,7 +9,7 @@ export const Home = () => {
 
         <div className=""
         style={{
-            backgroundImage: "url('/public/Fondo X.png')",
+            backgroundImage: "url('./Fondo X.png')",
             backgroundSize: "cover",
             backgroundPosition: "center"
         }}>
@@ -24,27 +24,27 @@ export const Home = () => {
             {
               id: 1,
               titulo: "Detective Pikachu",
-              imagen: "./public/Movie 1.jpg"
+              imagen: "./Movie 1.jpg"
             },
             {
               id: 2,
               titulo: "Siberian Hitman 2",
-              imagen: "./public/Movie 2.jpg"
+              imagen: "./Movie 2.jpg"
             },
             {
               id: 3,
               titulo: "Batman",
-              imagen: "./public/Movie 3.jpg"
+              imagen: "./Movie 3.jpg"
             },
             {
               id: 4,
               titulo: "Alien Isolation",
-              imagen: "./public/Movie 4.jpg"
+              imagen: "./Movie 4.jpg"
             },
             {
               id: 5,
               titulo: "Rampage",
-              imagen: "./public/Movie 5.avif"
+              imagen: "./Movie 5.avif"
             },
             
           ]}

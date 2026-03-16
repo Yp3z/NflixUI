@@ -9,7 +9,7 @@ export const Movies = () => {
         <div
             className=""
             style={{
-            backgroundImage: "url('/public/Fondo2.jpg')",
+            backgroundImage: "url('./Fondo2.jpg')",
             backgroundSize: "cover",
             backgroundPosition: "center"
             }}>
@@ -30,27 +30,27 @@ export const Movies = () => {
                         {
                           id: 1,
                           titulo: "Five Nights at Freddy's 2",
-                          imagen: "./public/Peli 1.jpg"
+                          imagen: "./Peli 1.jpg"
                         },
                         {
                           id: 2,
                           titulo: "Sonic the Hedgehod 3",
-                          imagen: "./public/Peli 2.jpg"
+                          imagen: "./Peli 2.jpg"
                         },
                         {
                           id: 3,
                           titulo: "Pixels",
-                          imagen: "./public/Peli 3.jpg"
+                          imagen: "./Peli 3.jpg"
                         },
                         {
                           id: 4,
                           titulo: "Super Mario Bros",
-                          imagen: "./public/Peli 4.png"
+                          imagen: "./Peli 4.png"
                         },
                         {
                           id: 5,
                           titulo: "Minecraft the Movie",
-                          imagen: "./public/Peli 5.avif"
+                          imagen: "./Peli 5.avif"
                         },
                         
                       ]}

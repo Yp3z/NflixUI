@@ -9,7 +9,7 @@ export const Games = () => {
         <div
             className=""
             style={{
-            backgroundImage: "url('/public/Fondo.jpg')",
+            backgroundImage: "url('./Fondo.jpg')",
             backgroundSize: "cover",
             backgroundPosition: "center"
             }}>
@@ -30,27 +30,27 @@ export const Games = () => {
                         {
                           id: 1,
                           titulo: "Detroit Become Human",
-                          imagen: "./public/Juego 1.jpg"
+                          imagen: "./Juego 1.jpg"
                         },
                         {
                           id: 2,
                           titulo: "Life is Strange",
-                          imagen: "./public/Juego 2.jpg"
+                          imagen: "./Juego 2.jpg"
                         },
                         {
                           id: 3,
                           titulo: "The Last of Us",
-                          imagen: "./public/Juego 3.jpg"
+                          imagen: "./Juego 3.jpg"
                         },
                         {
                           id: 4,
                           titulo: "Yakuza 0",
-                          imagen: "./public/Juego 4.jpg"
+                          imagen: "./Juego 4.jpg"
                         },
                         {
                           id: 5,
                           titulo: "Beyond: One Soul",
-                          imagen: "./public/Juego 5.jpg"
+                          imagen: "./Juego 5.jpg"
                         },
                         
                       ]}
