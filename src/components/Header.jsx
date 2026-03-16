@@ -21,7 +21,7 @@ export const Header = () => {
          <Link className="nav-link active ms-3" aria-current="page" to="/anime">Anime</Link>
         </li>
         
-                <li class="nav-item">
+                <li className="nav-item">
          <Link className="nav-link active ms-3" aria-current="page" to="/games">Games</Link>
         </li>
         <li className="nav-item">
