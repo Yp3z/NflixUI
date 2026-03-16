@@ -38,8 +38,8 @@ export const Header = () => {
 
 
 <div className='ms-3 d-flex gap-2'>
-       <img  src="./public/bell.png" alt="" height='30px'/> 
-       <img src="./public/circle-user.png" alt="" height='30px'/>
+       <img  src="./bell.png" alt="" height='30px'/> 
+       <img src="./circle-user.png" alt="" height='30px'/>
 </div>
     </div>
   </div>
